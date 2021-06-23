@@ -23,7 +23,7 @@ World.add(world,this.body)
      push()
      imageMode(CENTER);
      translate(pos.x,pos.y);
-     image(this.image,0,060,60);
+     image(this.image,0,0,60,60);
      pop();
 
     }

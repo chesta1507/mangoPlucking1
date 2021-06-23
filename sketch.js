@@ -9,6 +9,8 @@ var Boy
 var Tree
 var Mango
 var Stone
+
+
 function preload()
 {
 	BoyImage = loadImage("boy.png")
